@@ -2,12 +2,18 @@
 
 1. To create a venv
 
-```bash python -m venv backend```
+```bash 
+python -m venv backend
+```
 
 2. To activate the venv
 
-```bash backend/Scripts/activate```
+```bash 
+backend/Scripts/activate
+```
 
 3. To install the dependencies
-```bash pip install -r requirements.txt```
+```
+bash pip install -r requirements.txt
+```
 
