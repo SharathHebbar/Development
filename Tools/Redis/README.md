@@ -7,7 +7,7 @@ REmote DIctionary Service
 - It is a powerhouse
 
 
-![Install Redis on Windows](https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/install-redis-on-windows/)
+[Install Redis on Windows](https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/install-redis-on-windows/)
 
 Installation Steps
 
