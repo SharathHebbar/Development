@@ -1,0 +1,40 @@
+---------------------app.py------------------------
+
+{
+  user {
+    name
+    age
+  }
+}
+
+
+--------------------------main.py----------------------
+
+# mutation {
+#   createUser(name: "Eric", email: "eric@gmail.com") {
+#     id
+#     name
+#     email
+#   }
+# }
+
+# mutation {
+#   createPost(title: "New Post", content: "This is a new post", authorId:2) {
+#     id
+#     title
+#     content
+#   }
+# }
+
+# {
+#   getUser(id: 2){
+#     id
+#     name
+#     email
+#     posts {
+#       id
+#       title
+#       content
+#     }
+#   }
+# }
